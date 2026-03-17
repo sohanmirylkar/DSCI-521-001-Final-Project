@@ -319,4 +319,9 @@ Credit-Card-Churn-Prediction
 
 ---
 
-If you want, I can also give you **3 small upgrades that will make your GitHub repository look extremely professional** (like top ML repos).
+# 👨‍💻 Author's
+
+* Aadesh Kalbhor (ak4567@drexel.edu)
+* Ahmed Syed (as6387@drexel.edu)
+* Sohan Miryalkar (sm5243@drexel.edu)
+
